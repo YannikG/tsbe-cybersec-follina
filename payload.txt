@@ -1,1 +1,1 @@
-cmd /c msg user "Hack hack!"
+cmd /c msg %username% Your message here
